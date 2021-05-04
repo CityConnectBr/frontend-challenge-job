@@ -25,10 +25,18 @@ O cadastro da vaga começa ao clicar no botão de "Cadastrar vaga" na tela inici
 - O sistema deve consumir a api para popular os campo de Cidade e Beneficios
 - O sistema deve se recuperar de um erro e apresentar feedbacks para o usuario
 - O sitema deve permitr filtra pelas vagas onde com apenas um texto buscamos por todos os campos da vaga
+- O sistema deve ser adptar ao mobile
 
 # Requisitos não funcionais
 - O projeto deve ser construido utilizando React
 - O projeto deve ser contruido utilizando os conceitos de funcional se optar por esse paradigma  
 - O projeto deve ser contruido utilizando os conceitos de orientação a objetos se optar por esse paradigma  
 - Como persistencia deve ser usar o indexeddb como preferencia
+
+# Considerações finais
+A equipe de tecnologia da City Connect lhe deseja um excelente teste, e estaremos analisando seu trabalho com um grande carinho e respeito.
+
+### De o seu melhor :rocket::rocket::rocket:
+
+
 
