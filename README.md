@@ -33,6 +33,9 @@ O cadastro da vaga começa ao clicar no botão de "Cadastrar vaga" na tela inici
 - O projeto deve ser contruido utilizando os conceitos de orientação a objetos se optar por esse paradigma  
 - Como persistencia deve ser usar o indexeddb como preferencia
 
+# Entrega
+Para realizar a entrega hospede seu projeto em um repositorio publico e ao finalizar envie o link para o seu recrutador
+
 # Considerações finais
 A equipe de tecnologia da City Connect lhe deseja um excelente teste, e estaremos analisando seu trabalho com um grande carinho e respeito.
 
