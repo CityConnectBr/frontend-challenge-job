@@ -8,8 +8,8 @@ Vocẽ recebeu como desafio criar um sistema de empregros onde outras pessoas po
 O cadastro da vaga começa ao clicar no botão de "Cadastrar vaga" na tela inicial onde o usuário deve ser redirecionando para a tela de cadastro de vaga. Essa tela sera dividida em 2 na vertical onde a primeira parte ira conter basicamente contem os campos necessarios para se cadastrar uma vaga como salario, profissão, descrição entre outros e o outro lado as vagas já cadastradas.
 
 # Utilizades para o desenvolvimento
-## Layout Figman  [Clique aqui](https://www.figma.com/file/OgvejxON9PfOyPPl9sebTX/Teste-para-Programador)
-## Repositorio para api [Clique aqui](https://github.com/CityConnectBr/api-fake-challenge-job/blob/master/README.md)
+- Layout Figman  [Clique aqui](https://www.figma.com/file/OgvejxON9PfOyPPl9sebTX/Teste-para-Programador)
+- Repositorio para api [Clique aqui](https://github.com/CityConnectBr/api-fake-challenge-job/blob/master/README.md)
 
 # Layout
 #### Tela Inicial
